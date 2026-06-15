@@ -1,0 +1,46 @@
+# Geotechnique — Niort
+
+> Geotechnical engineering services in Niort, France.
+
+## Services
+- [Amelioration Sols](https://niort.geotechnique.vip/amelioration-sols/)
+- [Cbr Routier](https://niort.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://niort.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://niort.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://niort.geotechnique.vip/colonnes-ballastees/)
+- [Densite Cone Sable](https://niort.geotechnique.vip/densite-cone-sable/)
+- [Essai Plaque Charge](https://niort.geotechnique.vip/essai-plaque-charge/)
+- [Excavations](https://niort.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://niort.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://niort.geotechnique.vip/fondations/)
+- [Geophysique](https://niort.geotechnique.vip/geophysique/)
+- [Geotechnique Routiere](https://niort.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://niort.geotechnique.vip/granulometrie/)
+- [Investigation](https://niort.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://niort.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://niort.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://niort.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://niort.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://niort.geotechnique.vip/liquefaction/)
+- [Microzonage Sismique](https://niort.geotechnique.vip/microzonage-sismique/)
+- [Permeabilite In Situ](https://niort.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://niort.geotechnique.vip/pieux/)
+- [Puits Inspection](https://niort.geotechnique.vip/puits-inspection/)
+- [Radiers](https://niort.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://niort.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://niort.geotechnique.vip/resistivite/)
+- [Sismique](https://niort.geotechnique.vip/sismique/)
+- [Sondages Spt](https://niort.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://niort.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://niort.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://niort.geotechnique.vip/talus/)
+- [Triaxial](https://niort.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://niort.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://niort.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://niort.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Niort, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
